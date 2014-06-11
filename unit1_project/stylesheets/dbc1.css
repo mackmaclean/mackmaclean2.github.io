@@ -1,8 +1,13 @@
-<style>
+
 .wrapper {
 	width:100%
 	maxwidth : 1400px;
 	margin : 0 auto;
 	}
-</style>
+
  
+ 
+p {
+    text-align: center;
+    color: blue;
+} 
